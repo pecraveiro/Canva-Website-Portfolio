@@ -28,17 +28,17 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 ## 📑 Guia completo
 
-**Passo a passo**
+**- Passo a passo**
   - 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito;
   - 2 - No canto direito superior, clique em criar um design;
   - 3 - Selecione a sugestão ''Apresentação (16:9)";
-- 4 - Prontinho, agora você já tem a base do seu design criado;
-- 5 - Desenvolva sua landing page, seu portfólio, um site para sua loja... ou qualquer tipo de website que você deseja criar;
-- 6 - Caso esteja perdido por onde começar, busque por tempates no canto superior esquerdo e digite seu nicho;
-- 7 - Após a criação do seu design, para transoformá-lo em um ''website'', basta clicar nos ''...'' no canto superior direito;
-- 8 - Aparecerá uma seção de ''Recomendados'', clique em Website;
-- 9 - Uma nova janela aparecerá e ao invés de deixar selecionado a opção de "Apresentação" no estilo web que aparece nessa janela, selecionaremos a opção "Rolagem";
-- 10 - Clique em abrir site e prontinho, seu "website" está prontinho!
+  - 4 - Prontinho, agora você já tem a base do seu design criado;
+  - 5 - Desenvolva sua landing page, seu portfólio, um site para sua loja... ou qualquer tipo de website que você deseja criar;
+  - 6 - Caso esteja perdido por onde começar, busque por tempates no canto superior esquerdo e digite seu nicho;
+  - 7 - Após a criação do seu design, para transoformá-lo em um ''website'', basta clicar nos ''...'' no canto superior direito;
+  - 8 - Aparecerá uma seção de ''Recomendados'', clique em Website;
+  - 9 - Uma nova janela aparecerá e ao invés de deixar selecionado a opção de "Apresentação" no estilo web que aparece nessa janela, selecionaremos a opção "Rolagem";
+  - 10 - Clique em abrir site e prontinho, seu "website" está prontinho!
 
 
 **Extra**
