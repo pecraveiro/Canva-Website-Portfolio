@@ -1,4 +1,4 @@
-<div align="justify-center">
+<div align="center">
 
 ![5rO5AgZKVrL5 (1)](https://user-images.githubusercontent.com/79882049/149387127-1f3db8e7-4119-40ef-8b51-c1b1b0178955.gif)
 
