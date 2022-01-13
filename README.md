@@ -22,7 +22,7 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 ## 📑 Tenologias utilizadas:
 
-- [Canva](canva.com/pt_br/);
+- [Canva](canva.com/pt_br/)
 
 ---
 
