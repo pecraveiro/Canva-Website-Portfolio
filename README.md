@@ -28,7 +28,7 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 ## 📑 Guia completo
 
-- 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito
+- 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito;
 - 2 - No canto direito superior, clique em criar um design;
 - 3 - Selecione a sugestão ''Apresentação (16:9)";
 - 4 - Prontinho, agora você já tem a base do seu design criado;
@@ -38,6 +38,13 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 - 8 - Aparecerá uma seção de ''Recomendados'', clique em Website;
 - 9 - Uma nova janela aparecerá e ao invés de deixar selecionado a opção de "Apresentação" no estilo web que aparece nessa janela, selecionaremos a opção "Rolagem";
 - 10 - Clique em abrir site e prontinho, seu "website" está prontinho!
+
+
+**Extra**
+- Precisa adicionar links no seu site?
+  - Selecione a imagem ou a frase e clique com o botão direito do mouse, nas últimas opções, clique em ''Adicionar link" e pronto!
+
+- Caso tenha dificuldades, aqui está um [vídeo]() do passo a passo de todo o projeto!
 
 ---
 
