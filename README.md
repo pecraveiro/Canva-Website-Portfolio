@@ -30,13 +30,13 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 **Passo a passo**
   - 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito;
-  - 2 - No canto direito superior, clique em criar um design;
-  - 3 - Selecione a sugestão ''Apresentação (16:9)";
+  - 2 - No canto direito superior, clique em "Criar um Design";
+  - 3 - Selecione a sugestão "Apresentação (16:9)";
   - 4 - Prontinho, agora você já tem a base do seu design criado;
   - 5 - Desenvolva sua landing page, seu portfólio, um site para sua loja... ou qualquer tipo de website que você deseja criar;
   - 6 - Caso esteja perdido por onde começar, busque por tempates no canto superior esquerdo e digite seu nicho;
-  - 7 - Após a criação do seu design, para transoformá-lo em um ''website'', basta clicar nos ''...'' no canto superior direito;
-  - 8 - Aparecerá uma seção de ''Recomendados'', clique em Website;
+  - 7 - Após a criação do seu design, para transoformá-lo em um "website", basta clicar nos "..." no canto superior direito;
+  - 8 - Aparecerá uma seção de "Recomendados", clique em Website;
   - 9 - Uma nova janela aparecerá e ao invés de deixar selecionado a opção de "Apresentação" no estilo web que aparece nessa janela, selecionaremos a opção "Rolagem";
   - 10 - Clique em abrir site e prontinho, seu "website" está prontinho!
 
@@ -52,9 +52,9 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 ## 💰 Doação:
 
-Caso você deseja apoiar o meu aprendizado, tornando possível a realização de todos os projetos do curso, da plataforma como um todo e a retirada do certificado, além de contribuir com o meu portfólio e currículo, sinta-se livre para doar. As doações não são obrigatórias e serão utilizadas apenas para incrementar meu aprendizado. ❤️ 
+Caso você deseja apoiar o meu aprendizado, tornando possível a realização de novos projetos, além de contribuir com o meu portfólio e currículo, sinta-se livre para doar. As doações não são obrigatórias e serão utilizadas apenas para incrementar meu aprendizado. ❤️ 
 
-If you want to support my learning, making it possible to carry out all the projects in the course, the platform as a whole and withdraw the certificate, in addition to contributing with my portfolio and curriculum, please feel free to donate. Donations are not required and will only be used to improve my learning. I will be very much appreciated. ❤️ 
+If you want to support my learning, making it possible to carry other projects, in addition to contributing with my portfolio and curriculum, please feel free to donate. Donations are not required and will only be used to improve my learning. I will be very much appreciated. ❤️ 
 
 <p align="center">You can directly donate to my Paypal, Bitcoin Addres, Ethereum Address or Pix if you are BR.</p>
 
