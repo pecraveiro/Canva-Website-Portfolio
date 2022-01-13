@@ -1,6 +1,6 @@
-<div align"justify-center" height="50" width="50">
+<div align"justify-center">
 
-![canva-gif](https://user-images.githubusercontent.com/79882049/149386445-47da7174-c8e0-462c-8e40-38a68ac43b96.gif)
+![5rO5AgZKVrL5 (1)](https://user-images.githubusercontent.com/79882049/149387127-1f3db8e7-4119-40ef-8b51-c1b1b0178955.gif)
 
  </div>
 
