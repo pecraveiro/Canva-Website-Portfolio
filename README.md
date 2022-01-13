@@ -1,5 +1,5 @@
 
-![portifólio-demonstração](https://user-images.githubusercontent.com/79882049/149385759-5e6585f1-878a-4319-88f2-9e09a0a5886b.jpg)
+![Portfólio - Pedro Craveiro](https://user-images.githubusercontent.com/79882049/149388564-0027a4c7-d05c-4472-afff-7e50b5b2981d.png)
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
