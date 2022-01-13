@@ -1,8 +1,3 @@
-<div align="center">
-
-![5rO5AgZKVrL5 (1)](https://user-images.githubusercontent.com/79882049/149387127-1f3db8e7-4119-40ef-8b51-c1b1b0178955.gif)
-
- </div>
 
 ![portifólio-demonstração](https://user-images.githubusercontent.com/79882049/149385759-5e6585f1-878a-4319-88f2-9e09a0a5886b.jpg)
 
@@ -79,4 +74,4 @@ If you want to support my learning, making it possible to carry out all the proj
 ![5rO5AgZKVrL5 (1)](https://user-images.githubusercontent.com/79882049/149387127-1f3db8e7-4119-40ef-8b51-c1b1b0178955.gif)
  
 </div>
-<p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐</p>
+<p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a><img src="https://user-images.githubusercontent.com/79882049/149387127-1f3db8e7-4119-40ef-8b51-c1b1b0178955.gif"></p>
