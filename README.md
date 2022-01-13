@@ -28,8 +28,8 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 ## 📑 Guia completo
 
-**- Passo a passo**
-  - 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito;
+**Passo a passo**
+ - 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito;
   - 2 - No canto direito superior, clique em criar um design;
   - 3 - Selecione a sugestão ''Apresentação (16:9)";
   - 4 - Prontinho, agora você já tem a base do seu design criado;
