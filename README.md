@@ -1,4 +1,4 @@
-<div align"justify-center">
+<div align="justify-center">
 
 ![5rO5AgZKVrL5 (1)](https://user-images.githubusercontent.com/79882049/149387127-1f3db8e7-4119-40ef-8b51-c1b1b0178955.gif)
 
@@ -73,6 +73,5 @@ If you want to support my learning, making it possible to carry out all the proj
   da938ec7-d485-418b-8dcc-8a2fc11f9531
   ```
 </details>
-
 
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐</p>
