@@ -1,8 +1,10 @@
-<!--
-https://www.canva.com/design/DAE1Pg4LlmQ/AbhjQe4Lue3zj7QG5X2dTA/view?website#2
--->
+<div align"center">
 
-![IMG_1769](https://user-images.githubusercontent.com/79882049/149385759-5e6585f1-878a-4319-88f2-9e09a0a5886b.jpg)
+![canva-gif](https://user-images.githubusercontent.com/79882049/149386445-47da7174-c8e0-462c-8e40-38a68ac43b96.gif)
+
+  </div>
+
+![portifólio-demonstração](https://user-images.githubusercontent.com/79882049/149385759-5e6585f1-878a-4319-88f2-9e09a0a5886b.jpg)
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
@@ -17,14 +19,14 @@ O projeto **Canva Website Portfólio** foi desenvolvido na plataforma do **Canva
 
 Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZML1sWtY6/) e acredito que outras ideias surgirão conforme o tempo. Sinta-se livre para copiar e fazer o seu próprio site! Ademais, o projeto foi programado por [mim](https://www.linkedin.com/in/pecraveiro) - que sou estudante na [Universidade Federal de Santa Catarina](https://ufsc.br/) -, caso você queira fazer alguma doação as informações estarão no final do arquivo. 
 
-Acesse o portfólio desenvolvido: https://www.canva.com/design/DAE1Pg4LlmQ/AbhjQe4Lue3zj7QG5X2dTA/view?website#2
+**Acesse o portfólio desenvolvido:** https://www.canva.com/design/DAE1Pg4LlmQ/AbhjQe4Lue3zj7QG5X2dTA/view?website#2
 
 ---
 
 
 ## 📑 Tenologias utilizadas
 
-- Canva;
+- [Canva](canva.com/pt_br/);
 
 ---
 
