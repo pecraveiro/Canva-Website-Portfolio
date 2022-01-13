@@ -2,8 +2,6 @@
 https://www.canva.com/design/DAE1Pg4LlmQ/AbhjQe4Lue3zj7QG5X2dTA/view?website#2
 -->
 
-![notagifpng1](https://user-images.githubusercontent.com/79882049/149385446-35013e6a-7f9a-4799-9c5b-00b6cc54f593.PNG)
-
 ![IMG_1769](https://user-images.githubusercontent.com/79882049/149385759-5e6585f1-878a-4319-88f2-9e09a0a5886b.jpg)
 
 ## 🔍 Índice
