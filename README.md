@@ -9,7 +9,7 @@
 
 ---
 
-## 📑 Sobre
+## 📑 Sobre:
 
 O projeto **Canva Website Portfólio** foi desenvolvido na plataforma do **Canva** com o intuito de tornar cada vez mais fácil o desinvolvimento de um ''site'' para pessoas que não possuem tanto conhecimento de programação. Com isso, basicamente você pode criar qualquer modelo de website utilizando um design de apresentação e transformando em um website na hora de apresentá-lo. Nesse guia ensinarei passo a passo de como fazer isso. Todavia, você não consegue registrar um domínio próprio, apenas gerar um link para apresentá-lo. Além disso, você pode utilizar um encurtador de link parar diminuir e modificá-lo. 
 
@@ -20,13 +20,13 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 ---
 
 
-## 📑 Tenologias utilizadas
+## 📑 Tenologias utilizadas:
 
 - [Canva](canva.com/pt_br/);
 
 ---
 
-## 📑 Guia completo
+## 📑 Guia completo:
 
 **Passo a passo**
   - 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito;
