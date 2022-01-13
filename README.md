@@ -1,8 +1,8 @@
-<div align"center">
+<div align"center" height="50" width="50">
 
 ![canva-gif](https://user-images.githubusercontent.com/79882049/149386445-47da7174-c8e0-462c-8e40-38a68ac43b96.gif)
 
-  </div>
+ </div>
 
 ![portifólio-demonstração](https://user-images.githubusercontent.com/79882049/149385759-5e6585f1-878a-4319-88f2-9e09a0a5886b.jpg)
 
