@@ -71,7 +71,8 @@ If you want to support my learning, making it possible to carry out all the proj
 
 <div align="center"> 
 
-![canva-logo](https://user-images.githubusercontent.com/79882049/149388687-12428bbe-a45d-494e-936d-bca74ca8a6ed.gif)
+![canva-gif](https://user-images.githubusercontent.com/79882049/149388976-cfe74f30-0f55-4625-9bd1-1bd04fdff9f1.gif)
+
  
 </div>
 
