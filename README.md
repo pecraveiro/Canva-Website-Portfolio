@@ -28,9 +28,10 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 ## 📑 Guia completo
 
-- 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito;
-- 2 - No canto direito superior, clique em criar um design;
-- 3 - Selecione a sugestão ''Apresentação (16:9)";
+**Passo a passo**
+  - 1 - Crie sua conta no canva - aliás -, algo que não foi citado, todo o processo é para a criação é gratuito;
+  - 2 - No canto direito superior, clique em criar um design;
+  - 3 - Selecione a sugestão ''Apresentação (16:9)";
 - 4 - Prontinho, agora você já tem a base do seu design criado;
 - 5 - Desenvolva sua landing page, seu portfólio, um site para sua loja... ou qualquer tipo de website que você deseja criar;
 - 6 - Caso esteja perdido por onde começar, busque por tempates no canto superior esquerdo e digite seu nicho;
@@ -41,6 +42,7 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 
 **Extra**
+
 - Precisa adicionar links no seu site?
   - Selecione a imagem ou a frase e clique com o botão direito do mouse, nas últimas opções, clique em ''Adicionar link" e pronto!
 
