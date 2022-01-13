@@ -1,4 +1,4 @@
-<div align"center" height="50" width="50">
+<div align"justify-center" height="50" width="50">
 
 ![canva-gif](https://user-images.githubusercontent.com/79882049/149386445-47da7174-c8e0-462c-8e40-38a68ac43b96.gif)
 
