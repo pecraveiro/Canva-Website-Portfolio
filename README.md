@@ -16,9 +16,11 @@ O projeto **Canva Website Portfólio** foi desenvolvido na plataforma do **Canva
 Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZML1sWtY6/) e acredito que outras ideias surgirão conforme o tempo. Sinta-se livre para copiar e fazer o seu próprio site! Ademais, o projeto foi programado por [mim](https://www.linkedin.com/in/pecraveiro) - que sou estudante de Engenharia da Computação na [Universidade Federal de Santa Catarina](https://ufsc.br/) -, caso você queira fazer alguma doação para apoiar o projeto, as informações estão no final do arquivo. 
 
 **Acesse o ''website'' do portfólio desenvolvido:** https://www.canva.com/design/DAE1Pg4LlmQ/AbhjQe4Lue3zj7QG5X2dTA/view?website#2
-
+<div align="center"> 
+  
 ![gifgif](https://user-images.githubusercontent.com/79882049/149547876-022cd91a-4310-4e10-9eea-2d3c22a57509.gif)
 
+</div> 
 ---
 
 
