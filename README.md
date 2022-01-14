@@ -17,6 +17,8 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 
 **Acesse o ''website'' do portfólio desenvolvido:** https://www.canva.com/design/DAE1Pg4LlmQ/AbhjQe4Lue3zj7QG5X2dTA/view?website#2
 
+![gifgif](https://user-images.githubusercontent.com/79882049/149547876-022cd91a-4310-4e10-9eea-2d3c22a57509.gif)
+
 ---
 
 
