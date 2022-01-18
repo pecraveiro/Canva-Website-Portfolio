@@ -3,7 +3,7 @@
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Tecnologias utilizadas](#-tecnologia-utilizadas)
 - [Guia completo](#-guia-completo)
 - [Doação](#-doação)
 
