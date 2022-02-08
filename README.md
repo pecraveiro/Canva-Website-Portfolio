@@ -21,6 +21,7 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 ![gifgif](https://user-images.githubusercontent.com/79882049/149547876-022cd91a-4310-4e10-9eea-2d3c22a57509.gif)
 
 </div> 
+
 ---
 
 
@@ -50,8 +51,7 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 - Precisa adicionar links no seu site?
   - Selecione a imagem ou a frase e clique com o botão direito do mouse, nas últimas opções, clique em ''Adicionar link" e pronto!
 
-// - Caso tenha dificuldades, aqui está um [vídeo]() do passo a passo de todo o projeto!
-
+---
 
 ## 💰 Doação:
 
