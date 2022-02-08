@@ -53,8 +53,6 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 // - Caso tenha dificuldades, aqui está um [vídeo]() do passo a passo de todo o projeto!
 
 
----
-
 ## 💰 Doação:
 
 Caso você deseja apoiar o meu aprendizado, tornando possível a realização de novos projetos, além de contribuir com o meu portfólio e currículo, sinta-se livre para doar. As doações não são obrigatórias e serão utilizadas apenas para incrementar meu aprendizado. ❤️ 
