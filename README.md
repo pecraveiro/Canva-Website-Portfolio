@@ -50,7 +50,7 @@ Tive inspiração nesse projeto com base nesse [vídeo](https://vm.tiktok.com/ZM
 - Precisa adicionar links no seu site?
   - Selecione a imagem ou a frase e clique com o botão direito do mouse, nas últimas opções, clique em ''Adicionar link" e pronto!
 
-- Caso tenha dificuldades, aqui está um [vídeo]() do passo a passo de todo o projeto!
+// - Caso tenha dificuldades, aqui está um [vídeo]() do passo a passo de todo o projeto!
 
 ---
 
