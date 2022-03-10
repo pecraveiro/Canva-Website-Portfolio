@@ -100,4 +100,4 @@ If you want to support my learning, making it possible to carry other projects, 
  
 </div>
 
-<p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a></p>
+<p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro 🌐</a></p>
